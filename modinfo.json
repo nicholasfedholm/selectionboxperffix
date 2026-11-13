@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "selectionboxperffix",
+  "name": "Selection Box Perffix",
+  "authors": [ "Nick" ],
+  "description": "Allocation-free, early-out version of vanilla EntityBehaviorSelectionBoxes hit testing (used heavily by LoP dinos). Same hit results as vanilla.",
+  "version": "1.0.0",
+  "side": "Universal",
+  "requiredOnClient": false,
+  "requiredOnServer": false,
+  "dependencies": { "game": "1.22.0" }
+}
